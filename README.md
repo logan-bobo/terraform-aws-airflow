@@ -1,4 +1,4 @@
-# airflow-module-aws-terraform
+# Airflow Module for AWS
 Community Terraform module to deploy a production ready Apache Airflow in to your AWS environment.
 
 ## Usage
